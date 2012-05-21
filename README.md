@@ -7,6 +7,8 @@ This plugin validates all .java files in a maven project with the specified sour
 
 The source encoding must be defined as maven project property `project.build.sourceEncoding`.
 
+[![Build Status](https://buildhive.cloudbees.com/job/kreyssel/job/encoding-enforcer-maven-plugin/badge/icon)](https://buildhive.cloudbees.com/job/kreyssel/job/encoding-enforcer-maven-plugin/)
+
 You should clone the repository locally and run `mvn clean install`.
 
 Then add the plugin to your pom:
